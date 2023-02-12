@@ -14,7 +14,7 @@
   <br>
   🎓 I'm currently studying Computer Science and Engineering at Vellore Institute of Technology, Vellore.
   <br>
-  💻 I make a Frontend Developer.
+  💻 I am a Frontend Developer.
   <br>
   📚 I’m currently learning tools for Backend.
   <br>
