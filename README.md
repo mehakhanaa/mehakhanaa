@@ -18,7 +18,7 @@
   <br>
   📚 I’m currently learning tools for Backend.
   <br>
-  📫reach me at <a href="mailto: khannamehak63425@gmail.com">khannamehak63425@gmail.com</a>
+  📫Reach me at <a href="mailto: khannamehak63425@gmail.com">khannamehak63425@gmail.com</a>
 </p>
 <hr>
 <h2 align="center">:hammer_and_wrench:Languages and Tools:</h2>
