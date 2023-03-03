@@ -35,3 +35,15 @@
   <img title="Git" height="40" src="images/git-original.svg">&nbsp
   <img title="Visual Studio Code" height="40" src="images/vscode.png">&nbsp
 </p>
+<h2 align="center">⚡ Stats:</h2>
+<br>
+<p align=center>
+  <div align=center>
+    <a href="https://github.com/MehakK1311/github-readme-streak-stats" title="Go to Source">
+      <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=MehakK1311&theme=react&border=61dafb&hide_border=true" alt="MehakK1311" />
+    </a>
+    <a href="https://github.com/MehakK1311/github-readme-stats" title="Go to Source">
+      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=MehakK1311&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+    </a>
+  </div>
+</p>
