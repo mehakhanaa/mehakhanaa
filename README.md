@@ -14,9 +14,10 @@
   <br>
   🎓 I'm currently studying Computer Science and Engineering at Vellore Institute of Technology, Vellore.
   <br>
-  💻 I am a Frontend Developer.
+  💻 I am a Web Developer.
   <br>
-  📚 I’m currently learning tools for Backend.
+  <br>
+   👩🏻‍💻 Backend Dev Intern @NourishGenie
   <br>
   📫Reach me at <a href="mailto: khannamehak63425@gmail.com">khannamehak63425@gmail.com</a>
 </p>
@@ -32,6 +33,7 @@
   <img title="npm" height="40" src="images/npm.svg">&nbsp
   <img title="GitHub" height="40" src="images/github.svg">&nbsp
   <img title="React" height="40" src="images/react-original.svg">&nbsp
+  <code><img title="Express" height="40" src="https://tinyurl.com/exprezzz"></code>
   <img title="Git" height="40" src="images/git-original.svg">&nbsp
   <img title="Visual Studio Code" height="40" src="images/vscode.png">&nbsp
 </p>
