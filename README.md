@@ -35,6 +35,8 @@
   <img title="Express" height="40" src="https://tinyurl.com/exprezzz">
   <img title="Git" height="40" src="images/git-original.svg">&nbsp
   <img title="Visual Studio Code" height="40" src="images/vscode.png">&nbsp
+ <img title="MongoDB" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>&nbsp
+  <img title="NodeJS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>&nbsp
 </p>
 <h2 align="center">⚡ Stats:</h2>
 <br>
