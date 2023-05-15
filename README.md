@@ -16,8 +16,6 @@
   <br>
   💻 I am a Web Developer.
   <br>
-   👩🏻‍💻 Backend Dev Intern @NourishGenie
-  <br>
   📫Reach me at <a href="mailto: khannamehak63425@gmail.com">khannamehak63425@gmail.com</a>
 </p>
 <hr>
