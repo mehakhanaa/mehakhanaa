@@ -16,6 +16,8 @@
   <br>
   💻 I am a Web Developer.
   <br>
+  🌱 I am currently learning GoLang.
+  <br>
   📫Reach me at <a href="mailto: khannamehak63425@gmail.com">khannamehak63425@gmail.com</a>
 </p>
 <hr>
