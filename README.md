@@ -1,50 +1,70 @@
-<h1 align="center">
-<img src="https://media.giphy.com/media/Q2T7BXRiDFPJcPoA7Z/giphy.gif" height="100" width="100" >
-</h1>
-<div align="center" id="badges" >
-  <code><a href="https://www.linkedin.com/in/mehak-khanna-868691221/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="https://www.hackerrank.com/mehakhanna1311" title="HackerRank Profile"><img width="22" src="images/hackerrank.png"> HackerRank</a></code>
+# ![Mehak Khanna Header](./images/background.png)
+
+<div align="center" id="badges">
+  <code><a href="https://www.linkedin.com/in/mehakhanaa/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
+  <code><a href="https://www.instagram.com/mehakhanaa" title="Instagram Profile"><img width="22" src="images/instagram.png"> Instagram</a></code>
+  <code><a href="mailto:khannamehak63425@gmail.com" title="Mail"><img width="22" src="images/gmail.png"> Mail</a></code>
 </div>
-<h1 align="center">
-  Hey There
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
-<p align="center">
-  I'm Mehak Khanna, A Tech Enthusiast from India.
-  <br>
-  🎓 I'm currently studying Computer Science and Engineering at Vellore Institute of Technology, Vellore.
-  <br>
-  💻 I am a Web Developer.
-  <br>
-  📫Reach me at <a href="mailto: khannamehak63425@gmail.com">khannamehak63425@gmail.com</a>
-</p>
-<hr>
-<h2 align="center">:hammer_and_wrench:Languages and Tools:</h2>
-<br>
-<p align="center">
-  <img title="C" height="40" src="images/c.svg">&nbsp
-  <img title="C++" height="40" src="images/cpp.svg">&nbsp
-  <img title="Javascript" height="40" src="images/javascript.svg">&nbsp
-  <img title="HTML5" height="40" src="images/html5.svg">&nbsp
-  <img title="CSS" height="40" src="images/css.svg">&nbsp
-  <img title="npm" height="40" src="images/npm.svg">&nbsp
-  <img title="GitHub" height="40" src="images/github.svg">&nbsp
-  <img title="React" height="40" src="images/react-original.svg">&nbsp
-  <img title="Express" height="40" src="https://tinyurl.com/exprezzz">
-  <img title="Git" height="40" src="images/git-original.svg">&nbsp
-  <img title="Visual Studio Code" height="40" src="images/vscode.png">&nbsp
- <img title="MongoDB" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>&nbsp
-  <img title="NodeJS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>&nbsp
-</p>
-<h2 align="center">⚡ Stats:</h2>
-<br>
-<p align=center>
-  <div align=center>
-    <a href="https://github.com/MehakK1311/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=MehakK1311&theme=react&border=61dafb&hide_border=true" alt="MehakK1311" />
-    </a>
-    <a href="https://github.com/MehakK1311/github-readme-stats" title="Go to Source">
-      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=MehakK1311&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-    </a>
-  </div>
-</p>
+
+<h3 align="center">
+🚀 Frontend | Backend | Cloud | Freelancer
+</h3>
+
+## About Me
+
+🙋🏻‍♀️ I’m a passionate software engineer from **Vellore Institute of Technology (VIT)** 🎓, one of India's top 20 institutions 🏆, with a strong focus on creating **scalable and distributed** applications 🌍. 
+
+My hands-on experience includes working at **SAAS-based startups** 🚀 and successfully completing two **freelancing projects** 💼.
+
+🌍 When I’m not coding, you can find me exploring the latest trends in **Technologies** 🌐, **Cloud Tools** ☁️ and **DevOps practices** 🛠️.
+
+## Work
+
+💼 I am currently open to roles in **Full-Stack Development** and **Cloud Engineering**. 
+
+If you know of any relevant opportunities or would like to refer me, please feel free to reach out! I would greatly appreciate it! 😊
+
+## Skills
+
+<div align="center">
+  <table>
+    <tr>
+      <td><strong>Languages</strong></td>
+      <td>Golang, C/C++, TypeScript, Python</td>
+    </tr>
+    <tr>
+      <td><strong>Frontend</strong></td>
+      <td>React.js, Next.js, HTML, CSS, Tailwind CSS, Chakra UI, Material UI, Redux</td>
+    </tr>
+    <tr>
+      <td><strong>Backend</strong></td>
+      <td>Node.js, Express.js, Gin Gonic, GoFiber, GraphQL, Apollo Server, FastAPI</td>
+    </tr>
+    <tr>
+      <td><strong>Databases</strong></td>
+      <td>MongoDB, MySQL, PostgreSQL, Redis, Influx, Cassandra</td>
+    </tr>
+    <tr>
+      <td><strong>Cloud</strong></td>
+      <td>AWS (Beanstalk, Amplify, AKS, EC2, ECR, S3, IAM, SQS, SNS, RDS), Azure Services, Digital Ocean, Firebase</td>
+    </tr>
+    <tr>
+      <td><strong>DevOps</strong></td>
+      <td>Docker, Kubernetes, CI/CD, Git, Datadog, Jenkins, Terraform, Nginx, Prometheus, Grafana, Load Balancing.</td>
+    </tr>
+    <tr>
+      <td><strong>Other</strong></td>
+      <td>Agile Methodologies, RESTful API Development, JWT Authentication, SEO, Microservices, Logging, OAuth, WebSockets, Redis Caching, Automated Testing, containerization and orchestration, Configuration Management</td>
+    </tr>
+  </table>
+</div>
+
+
+
+## Projects
+
+Feel free to check out some of my [projects on GitHub](https://github.com/mehakhanaa?tab=repositories) and give me feedback! 
+
+---
+
+Thanks for visiting my profile! 🚀
