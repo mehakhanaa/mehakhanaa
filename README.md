@@ -3,7 +3,7 @@
 <div align="center" id="badges">
   <code><a href="https://www.linkedin.com/in/mehakhanaa/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
   <code><a href="https://www.instagram.com/mehakhanaa" title="Instagram Profile"><img width="22" src="images/instagram.png"> Instagram</a></code>
-  <code><a href="mailto:khannamehak63425@gmail.com" title="Mail"><img width="22" src="images/gmail.png"> Mail</a></code>
+  <code><a href="mailto:khannamehak63425@gmail.com" title="Mail"><img width="22" src="images/gmail.png"> khannamehak63425@gmail.com</a></code>
 </div>
 
 <h3 align="center">
