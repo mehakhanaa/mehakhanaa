@@ -1,4 +1,4 @@
-# ![Mehak Khanna Header](./images/background.png)
+# ![Mehak Khanna](./images/background.png)
 
 <div align="center" id="badges">
   <code><a href="https://www.linkedin.com/in/mehakhanaa/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
