@@ -30,7 +30,7 @@ If you know of any relevant opportunities or would like to refer me, please feel
   <table>
     <tr>
       <td><strong>Languages</strong></td>
-      <td>Golang, C/C++, TypeScript, Python</td>
+      <td>Golang, C/C++, TypeScript</td>
     </tr>
     <tr>
       <td><strong>Frontend</strong></td>
@@ -38,23 +38,23 @@ If you know of any relevant opportunities or would like to refer me, please feel
     </tr>
     <tr>
       <td><strong>Backend</strong></td>
-      <td>Node.js, Express.js, Gin Gonic, GoFiber, GraphQL, Apollo Server, FastAPI</td>
+      <td>Node.js, Express.js, Gin Gonic, GoFiber</td>
     </tr>
     <tr>
       <td><strong>Databases</strong></td>
-      <td>MongoDB, MySQL, PostgreSQL, Redis, Influx, Cassandra</td>
+      <td>MongoDB, MySQL, PostgreSQL, Redis</td>
     </tr>
     <tr>
       <td><strong>Cloud</strong></td>
-      <td>AWS (Beanstalk, Amplify, AKS, EC2, ECR, S3, IAM, SQS, SNS, RDS), Azure Services, Digital Ocean, Firebase</td>
+      <td>AWS (Beanstalk, Amplify, AKS, EC2, S3, IAM, SNS, RDS), Azure Services, Digital Ocean, Firebase</td>
     </tr>
     <tr>
       <td><strong>DevOps</strong></td>
-      <td>Docker, Kubernetes, CI/CD, Git, Datadog, Jenkins, Terraform, Nginx, Prometheus, Grafana, Load Balancing.</td>
+      <td>Docker, CI/CD, Git, Datadog, Nginx </td>
     </tr>
     <tr>
       <td><strong>Other</strong></td>
-      <td>Agile Methodologies, RESTful API Development, JWT Authentication, SEO, Microservices, Logging, OAuth, WebSockets, Redis Caching, Automated Testing, containerization and orchestration, Configuration Management</td>
+      <td>Agile Methodologies, RESTful API Development, JWT Authentication, SEO, Microservices, Logging, OAuth, WebSockets, Redis Caching, containerization</td>
     </tr>
   </table>
 </div>
