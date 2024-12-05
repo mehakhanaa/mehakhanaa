@@ -7,7 +7,7 @@
 </div>
 
 <h3 align="center">
-🚀 Frontend | Backend | Cloud | Freelancer
+🚀 Frontend | Backend | Cloud
 </h3>
 
 ## About Me
@@ -38,7 +38,7 @@ If you know of any relevant opportunities or would like to refer me, please feel
     </tr>
     <tr>
       <td><strong>Backend</strong></td>
-      <td>Node.js, Express.js, Gin Gonic, GoFiber</td>
+      <td>Node.js, Express.js, Gin Gonic, Go Fiber</td>
     </tr>
     <tr>
       <td><strong>Databases</strong></td>
@@ -46,7 +46,7 @@ If you know of any relevant opportunities or would like to refer me, please feel
     </tr>
     <tr>
       <td><strong>Cloud</strong></td>
-      <td>AWS (Beanstalk, Amplify, AKS, EC2, S3, IAM, SNS, RDS), Azure Services, Digital Ocean, Firebase</td>
+      <td>AWS (Beanstalk, Amplify, EC2, S3, IAM, SNS, RDS) Azure Services, Digital Ocean, Firebase</td>
     </tr>
     <tr>
       <td><strong>DevOps</strong></td>
@@ -54,7 +54,7 @@ If you know of any relevant opportunities or would like to refer me, please feel
     </tr>
     <tr>
       <td><strong>Other</strong></td>
-      <td>Agile Methodologies, RESTful API Development, JWT Authentication, SEO, Microservices, Logging, OAuth, WebSockets, Redis Caching, containerization</td>
+      <td>Agile Methodologies, RESTful API Development, JWT Authentication, SEO, Logging, OAuth, WebSockets, Redis Caching, containerization</td>
     </tr>
   </table>
 </div>
